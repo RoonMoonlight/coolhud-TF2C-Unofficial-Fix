@@ -27,6 +27,19 @@ Well, there's no much more to say, if it convinces you, download it now! it's FR
 ### Minmode Variant Gameplay Demo (1.0 version)
 [Click here](https://www.youtube-nocookie.com/embed/-rsZefP2ufU)
 
+### Frequently Asked Questions
+**Q) What is this?**
+> A) This is the unofficial fix of coolhud TF2C Hud. This was originally made by xXtremePilgrimXx and later Skyrym ported it into TF2C. Unfortunately Skyrym couldn't work on this project for now, so I decided to fix the hud, *unofficially*.
+
+**Q) Will there be latest features from original TF2 coolhud?**
+> A) This project is intended to be a fix of coolhud TF2C port, since the hud that broke due to recent TF2C update... So unfortunately I cannot add more feature into it as this was designed to be simple fix of original hud. Everything will remain as-is with additional bug fixes applied, unless Skyrym comes back into GameBanana and makes new update by himself.
+
+**Q) Is this official?**
+> A) Absolutely not. This is just a simple fix to just make it work with recent TF2C release. So this project might be discontinued if Skyrym comes back with new update.
+
+**Q) Why not GameBanana?**
+> A) Due to several reasons I cannot disclose, I do NOT like GameBanana. Well if I could tell one reason, is because of strict moderation that removes submission or joke comments (for example, the joke that includes CAPS) for bullshit reason. So I won't be supporting gamebanana, therefore the official distribution will be made ONLY on my GitHub and my Codeberg.
+
 ### Notes
 I used Notepad++, VTF editor and Photoshop to make this.
 
