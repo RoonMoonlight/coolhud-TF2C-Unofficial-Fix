@@ -1,4 +1,4 @@
-![image](https://github.com/RoonMoonlight/coolhud-Unofficial-Fix/assets/25527589/875a75b4-5780-4c07-aec1-99ad89a1ffaa)![coolhud logo](https://i.imgur.com/rFezBs2.png) by [xXtremePilgrimXx](https://gamebanana.com/members/1736053)
+![coolhud logo](https://i.imgur.com/rFezBs2.png) by [xXtremePilgrimXx](https://gamebanana.com/members/1736053)
 
 > This is the unofficial fix of coolhud TF2C port by xXtremePilgrimXx and Skyrym.
 
