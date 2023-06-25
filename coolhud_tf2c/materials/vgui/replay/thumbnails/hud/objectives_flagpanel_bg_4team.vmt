@@ -1,0 +1,6 @@
+"UnlitGeneric"
+{
+	"$baseTexture" "vgui/replay/thumbnails/hud/objectives_flagpanel_bg_4team"
+	"$translucent" 1
+	"$ignorez" 1
+}
