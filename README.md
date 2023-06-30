@@ -37,6 +37,10 @@ Well, there's no much more to say, if it convinces you, download it now! it's FR
 **Q) Why not GameBanana?**
 > A) Due to several reasons I cannot disclose, I do NOT like GameBanana. Well if I could tell one reason, is because of strict moderation that removes submission or joke comments (for example, the joke that includes CAPS) for bullshit reason. So I won't be supporting gamebanana, therefore the official distribution will be made ONLY on my GitHub and my Codeberg.
 
+### Latest Changes
+#### COOL HUD Beta v3.1: Damage Box Overhaul
+Made the damage box more dynamic, now it changes color when healing (green) or damaging (red).
+
 ### Notes
 I used Notepad++, VTF editor and Photoshop to make this.
 
