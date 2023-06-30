@@ -101,4 +101,23 @@
 		"teambg_3_minmode"	"replay/thumbnails/hud/damage_pop_up_2"
 		"teambg_3_lodef"	"replay/thumbnails/hud/damage_pop_up_2"
 	}
+	"Hitmarker"
+	{
+		"ControlName"	"CTFImagePanel"
+		"fieldName"		"Hitmarker"
+		"xpos"			"c-14"
+		"ypos"			"c-14"
+		"zpos"			"30"
+		"wide"			"28"
+		"tall"			"28"
+		"enabled"		"1"
+		"visible"		"1"
+		"image"			"replay/thumbnails/hud/hitmarker_red"
+		"scaleImage"	"1"	
+		"Alpha"			"0"
+		"teambg_2"		"replay/thumbnails/hud/hitmarker_red"
+		"teambg_3"		"replay/thumbnails/hud/hitmarker_blue"
+		"teambg_4"		"replay/thumbnails/hud/hitmarker_green"
+		"teambg_5"		"replay/thumbnails/hud/hitmarker_yellow"
+	}
 }

@@ -135,7 +135,7 @@
 		"visible"			"1"
 		"enabled"			"1"
 		"labelText"			"%targetdata%"
-		"textAlignment"		"north-west"
+		"textAlignment"		"North-West"
 		"dulltext"			"0"
 		"brighttext"		"0"
 	}
